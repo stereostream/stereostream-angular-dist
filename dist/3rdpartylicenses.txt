@@ -117,7 +117,7 @@ CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT,
 TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE
 SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
 
-@angular/core@4.4.4
+@angular/core@4.4.5
 MIT
 MIT
 
@@ -302,7 +302,7 @@ after@0.8.2
 MIT
 MIT
 
-@angular/router@4.4.4
+@angular/router@4.4.5
 MIT
 MIT
 
@@ -310,11 +310,11 @@ isarray@2.0.1
 MIT
 MIT
 
-@angular/http@4.4.4
+@angular/http@4.4.5
 MIT
 MIT
 
-@angular/animations@4.4.4
+@angular/animations@4.4.5
 MIT
 MIT
 
@@ -439,15 +439,15 @@ IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMA
 WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE 
 SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
 
-@angular/common@4.4.4
+@angular/common@4.4.5
 MIT
 MIT
 
-@angular/forms@4.4.4
+@angular/forms@4.4.5
 MIT
 MIT
 
-@angular/platform-browser@4.4.4
+@angular/platform-browser@4.4.5
 MIT
 MIT
 
